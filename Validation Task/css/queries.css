@@ -1,0 +1,19 @@
+@media (max-width: 35em) {
+  html {
+    font-size: 50%;
+  }
+
+  .container {
+    grid-template-columns: 1fr;
+    gap: 0rem;
+  }
+
+  .description {
+    text-align: center;
+    justify-self: center;
+  }
+
+  .form-container {
+    justify-self: center;
+  }
+}
